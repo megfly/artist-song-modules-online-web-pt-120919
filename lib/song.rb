@@ -1,5 +1,5 @@
 require 'pry'
-require_relative 'memorable.rb'
+
 
 extend Memorable
 
